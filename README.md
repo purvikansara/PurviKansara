@@ -6,7 +6,7 @@ I am Purvi Kansara!
 - 🌱 I’m currently learning NLP and deployment with Streamlit.
 - I am currently working at Coding Dojo as a Data Science Instructor.
 - I am a proud mom of two amazing boys who are Kung Fu and Taekwondo enthusiasts, and passionate gamers.
-- 📫 How to reach me: ...
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/purvikansara/)
 
 ###
 
